@@ -13,7 +13,7 @@ markdown.
 
 Write your documentation using [github-flavored markdown](http://github.github.com/github-flavored-markdown/), surround your
 snippets with python code blocks and steadymark will automatically
-find and run them, if there is a header preceeding your python snippet
+find and run them, if there is a header preceding your python snippet
 it will be used as title for your test.
 
 # Advantages:
